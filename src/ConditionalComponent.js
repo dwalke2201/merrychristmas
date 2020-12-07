@@ -148,7 +148,7 @@ class ConditionalComponent extends React.Component{
         let paragraph
         switch (date.getDate().toString()){
             case "1":
-                paragraph = "Ich habe mich von der ersten Minute an in deine grünen Augen verliebt!"
+                paragraph = "Hey! Ich habe mich von der ersten Minute an in deine grünen Augen verliebt!"
                 break;
             case "2":
                 paragraph = "Weißt du noch als ich dir begeistert meine VR- Brille gezeigt habe, um dann mit dir ein Foto zu machen? Du warst begeistert oder?"
